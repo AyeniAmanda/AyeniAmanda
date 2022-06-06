@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyeniAmanda
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python,sql,power bi and excel
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in software enginerring and data science
+- 🌱 I’m currently learning java, python and power bi
+- 💞️ I’m looking to collaborate on java  projects and python projects for data science
 - 📫 How to reach me amandaayeni32@gmail.com
 
 <!---
