@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AyeniAmanda
-- 👀 I’m interested in software enginerring and data science
-- 🌱 I’m currently learning java, python and power bi
+- 👀 I’m interested in software enginerring
+- 🌱 I’m proficient in java and react
 - 💞️ I’m looking to collaborate on java  projects 
-- 📫 How to reach me amandaayeni32@gmail.com or amanda.ayeni@decagon.dev
+- 📫 How to reach me amandaayeni32@gmail.com 
 
 <!---
 AyeniAmanda/AyeniAmanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
