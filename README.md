@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyeniAmanda
-- 👀 I’m interested in software enginerring
+- 👀 I am a Software Engineer
 - 🌱 I’m proficient in Java and React
 - 💞️ I’m looking to collaborate on java  projects 
 - 📫 How to reach me amandaayeni32@gmail.com 
